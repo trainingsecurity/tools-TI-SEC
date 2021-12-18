@@ -1,2 +1,2 @@
-# tools-TI-SEC
-Herramientas creadas por el grupo TI &amp; SEC
+# Tools by TI & SEC
+Herramientas creadas por la comunidad TI & SEC; SEC
